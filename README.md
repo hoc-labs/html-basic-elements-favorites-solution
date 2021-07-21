@@ -1,1 +1,1 @@
-# html-basic-elements-favorites-solution
+[Lab Link](https://github.com/hoc-labs/html-basic-elements-favorites#readme)
